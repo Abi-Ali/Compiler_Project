@@ -1,0 +1,25 @@
+5
+E -> TB
+B -> +TB | #
+T -> FC
+C -> *FC | #
+F -> (E) | i
+
+4
+S -> A
+A -> Bb | Cd
+B -> aB | #
+C -> cC | #
+
+1
+S -> aSbS | bSaS | # 
+
+3
+S -> iE+SQ | a
+Q -> eS | #
+E -> b
+
+3
+S -> aABb
+A -> c | #
+B -> d | #
