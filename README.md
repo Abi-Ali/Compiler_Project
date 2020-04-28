@@ -2,8 +2,10 @@
 
 Project includes implementation of three concepts of compiler design
 
-1) First and follow.
+1. First and follow.
 
-2)LL(1) Parsing Table.
+2. LL(1) Parsing Table.
 
-3) Regular Expressiion to NFA.
+3. Regular Expressiion to NFA.
+
+Steps to run :  g++ compiler_proj_final.cpp
